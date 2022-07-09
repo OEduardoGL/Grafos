@@ -5,3 +5,5 @@ A execução deve ser feita da seguinte maneira:
 - Em um terminal, acesse o diretórios onde os arquivos se localizam;
 - Insira o comando: "g++ prim.cpp -o prim" para compilar;
 - Em seguida: "./prim < entrada_prim.txt" para executar.
+
+OBS: Tentamos aproveitar a estrutura do algoritmo do Dijsktra, porém tivemos alguns problemas e preferimos tentar de outra maneira.
