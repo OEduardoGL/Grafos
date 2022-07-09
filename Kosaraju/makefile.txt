@@ -1,0 +1,7 @@
+Por falta de experiência, infelizmente não conseguimos e nem entendemos como implementar o makefile.
+Este arquivo servirá para demonstrar como executar este algoritmo.
+
+A execução deve ser feita da seguinte maneira:
+- Em um terminal, acesse o diretórios onde os arquivos se localizam;
+- Insira o comando: "g++ kosaraju.cpp -o kosaraju" para compilar;
+- Em seguida: "./kosaraju < entrada_kosaraju.txt" para executar.
